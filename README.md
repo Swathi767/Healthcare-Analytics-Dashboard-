@@ -1,30 +1,33 @@
 Healthcare Analytics Dashboard
 Overview
-This project presents a Healthcare Analytics Dashboard built using Power BI, SQL, Excel, and Tableau. The dashboard provides actionable insights into patient demographics, treatment patterns, physician performance, and healthcare operations to support data-driven decision-making.
+
+This project presents an interactive Healthcare Analytics Dashboard developed using Power BI, SQL, Excel, and Tableau. The dashboard analyzes patient demographics, treatment patterns, physician performance, appointments, and healthcare operations to generate meaningful insights and support data-driven decision-making.
 
 Objectives
-Monitor patient volume and engagement
-Track follow-up rates and treatment costs
-Analyze physician performance and workload
-Identify diagnosis and treatment trends
-Improve operational efficiency through data insights
+Analyze patient volume, demographics, and engagement.
+Track patient follow-up and retention rates.
+Monitor treatment costs and healthcare utilization.
+Analyze physician performance and workload.
+Identify diagnosis and treatment trends.
+Support resource planning and operational improvement.
 Key Metrics
 Total Patients
 Active Patients
+Patient Retention Rate
 Follow-up Rate
 Average Treatment Cost
 Appointment Utilization Rate
 Physician Workload
-Patient Retention Rate
 Top Diagnosed Conditions
 Dashboard Features
 Interactive KPI Cards
 Patient Demographics Analysis
-Diagnosis Trend Analysis
+Diagnosis and Treatment Analysis
 Treatment Cost Monitoring
-Physician Performance Dashboard
+Physician Performance Analysis
 Appointment and Follow-up Tracking
-Dynamic Filters and Drill-down Capabilities
+Interactive Filters and Drill-downs
+Trend Analysis and Data Visualizations
 Tools & Technologies
 Power BI
 Tableau
@@ -33,25 +36,33 @@ Microsoft Excel
 DAX
 Data Modeling
 Business Insights
-Identified high-demand treatments and patient segments
-Evaluated physician workload distribution
-Monitored patient retention and follow-up effectiveness
-Analyzed healthcare utilization patterns
-Supported resource planning and operational optimization
+Analyzed patient segments and healthcare trends.
+Identified high-demand treatments and diagnosed conditions.
+Evaluated physician workload and performance.
+Monitored patient retention and follow-up effectiveness.
+Analyzed appointment utilization and treatment costs.
+Generated insights to support resource planning and operational decision-making.
 Project Workflow
 Data Collection
 Data Cleaning & Validation
+Data Transformation
 Data Modeling
 KPI Definition
+Data Analysis
 Dashboard Development
 Insight Generation
 Business Reporting
 Skills Demonstrated
-Business Analysis
 Data Analytics
-KPI Development
+Business Analysis
 SQL Querying
-Dashboard Development
+Power BI
+Tableau
+Excel
+DAX
+Data Modeling
+KPI Development
 Data Visualization
-Stakeholder Reporting
+Dashboard Development
+Business Reporting
 Problem Solving
